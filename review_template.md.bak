@@ -1,0 +1,26 @@
+---
+title: "Nombre de la película"
+review_year: 2026
+film_year: 19xx
+rating: 4
+reading_time_min: 1
+summary: "Resumen breve de la impresión general."
+genres: ["Género"]
+director: "Nombre del director"
+duration_min: 0
+watched_on: "YYYY-MM-DD"
+format: "Streaming"
+tags: ["tag1","tag2"]
+spoiler: false
+poster: "path/to/poster.jpg"
+slug: "nombre-de-la-pelicula-xxxx"
+---
+
+Escribe aquí el cuerpo de la reseña. Usa párrafos y subcabeceras según quieras.
+
+Pros:
+- 
+Contras:
+- 
+
+Cita favorita: ""
